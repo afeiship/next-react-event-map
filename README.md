@@ -7,9 +7,10 @@ npm install -S afeiship/next-react-event-map --registry=https://registry.npm.tao
 ```
 
 ## apis
-| api | params | description   |
-|-----|--------|---------------|
-| get | -      | desc balabala |
+| api  | params | description            |
+| ---- | ------ | ---------------------- |
+| get  | -      | Get vaue by key        |
+| gets | -      | Gets the whole mapping |
 
 ## usage
 ```js
@@ -17,6 +18,3 @@ import NxReactEventMap from 'next-react-event-map';
 
 // code goes here:
 ```
-
-## resources
-- https://github.com/afeiship
